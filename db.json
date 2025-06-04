@@ -1,0 +1,72 @@
+{
+  "product": [
+    {
+      "id": "1749043991563",
+      "productname": "Katell Coleman",
+      "productprice": "482",
+      "stock": "53",
+      "warehouse": [
+        "Surat",
+        "Navsari"
+      ],
+      "description": "Rerum impedit vitae"
+    },
+    {
+      "id": "1749044004780",
+      "productname": "Martin Ford",
+      "productprice": "288",
+      "stock": "77",
+      "warehouse": [
+        "Surat",
+        "Navsari"
+      ],
+      "description": "Iure quo non sunt im"
+    },
+    {
+      "id": "1749044018031",
+      "productname": "Maggy Todd",
+      "productprice": "104",
+      "stock": "62",
+      "warehouse": [
+        "Navsari",
+        "Daman"
+      ],
+      "description": "Libero enim repellen"
+    },
+    {
+      "id": "1749053843357",
+      "productname": "Germaine Stewart",
+      "productprice": "235",
+      "stock": "40",
+      "warehouse": [
+        "Surat",
+        "Navsari"
+      ],
+      "description": "Reprehenderit moles"
+    },
+    {
+      "id": "1749053865763",
+      "productname": "Tamara Peck",
+      "productprice": "781",
+      "stock": "58",
+      "warehouse": [
+        "Surat",
+        "Navsari",
+        "Daman"
+      ],
+      "description": "Eaque velit ut nisi "
+    },
+    {
+      "id": "1749053898727",
+      "productname": "Elton Castro",
+      "productprice": "835",
+      "stock": "86",
+      "warehouse": [
+        "Surat",
+        "Navsari",
+        "Daman"
+      ],
+      "description": "Quibusdam omnis dolo"
+    }
+  ]
+}
